@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+button{
+    font-size: 15px;
+    color: blue;
+}
+div.main{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
